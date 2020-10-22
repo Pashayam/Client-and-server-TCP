@@ -1,0 +1,67 @@
+16:05:53.783431 IP localhost.40309 > localhost.41196: Flags [P.], seq 27094973:27095340, ack 4083017294, win 512, options [nop,nop,TS val 920438248 ecr 919969892], length 367
+16:05:53.783441 IP localhost.41196 > localhost.40309: Flags [.], ack 367, win 510, options [nop,nop,TS val 920438248 ecr 920438248], length 0
+16:05:53.902252 IP localhost.41196 > localhost.40309: Flags [P.], seq 1:54, ack 367, win 512, options [nop,nop,TS val 920438367 ecr 920438248], length 53
+16:05:53.902261 IP localhost.40309 > localhost.41196: Flags [.], ack 54, win 512, options [nop,nop,TS val 920438367 ecr 920438367], length 0
+16:05:53.927298 IP localhost.41196 > localhost.40309: Flags [F.], seq 54, ack 367, win 512, options [nop,nop,TS val 920438392 ecr 920438367], length 0
+16:05:53.927978 IP localhost.40309 > localhost.41196: Flags [F.], seq 367, ack 55, win 512, options [nop,nop,TS val 920438393 ecr 920438392], length 0
+16:05:53.927986 IP localhost.41196 > localhost.40309: Flags [.], ack 368, win 512, options [nop,nop,TS val 920438393 ecr 920438393], length 0
+16:05:54.536756 IP localhost.45136 > localhost.36163: Flags [S], seq 2470684906, win 65495, options [mss 65495,sackOK,TS val 920439002 ecr 0,nop,wscale 7], length 0
+16:05:54.536764 IP localhost.36163 > localhost.45136: Flags [S.], seq 3533263171, ack 2470684907, win 65483, options [mss 65495,sackOK,TS val 920439002 ecr 920439002,nop,wscale 7], length 0
+16:05:54.536771 IP localhost.45136 > localhost.36163: Flags [.], ack 1, win 512, options [nop,nop,TS val 920439002 ecr 920439002], length 0
+16:05:55.560171 IP localhost.41224 > localhost.40309: Flags [S], seq 889299956, win 65495, options [mss 65495,sackOK,TS val 920440025 ecr 0,nop,wscale 7], length 0
+16:05:55.560179 IP localhost.40309 > localhost.41224: Flags [S.], seq 156151912, ack 889299957, win 65483, options [mss 65495,sackOK,TS val 920440025 ecr 920440025,nop,wscale 7], length 0
+16:05:55.560187 IP localhost.41224 > localhost.40309: Flags [.], ack 1, win 512, options [nop,nop,TS val 920440025 ecr 920440025], length 0
+16:05:56.412990 IP localhost.41224 > localhost.40309: Flags [P.], seq 1:32, ack 1, win 512, options [nop,nop,TS val 920440878 ecr 920440025], length 31
+16:05:56.413000 IP localhost.40309 > localhost.41224: Flags [.], ack 32, win 512, options [nop,nop,TS val 920440878 ecr 920440878], length 0
+16:05:59.304753 IP localhost.40309 > localhost.41224: Flags [P.], seq 1:370, ack 32, win 512, options [nop,nop,TS val 920443770 ecr 920440878], length 369
+16:05:59.304763 IP localhost.41224 > localhost.40309: Flags [.], ack 370, win 510, options [nop,nop,TS val 920443770 ecr 920443770], length 0
+16:05:59.499812 IP localhost.41224 > localhost.40309: Flags [P.], seq 32:86, ack 370, win 512, options [nop,nop,TS val 920443965 ecr 920443770], length 54
+16:05:59.499829 IP localhost.40309 > localhost.41224: Flags [.], ack 86, win 512, options [nop,nop,TS val 920443965 ecr 920443965], length 0
+16:05:59.536725 IP localhost.41224 > localhost.40309: Flags [F.], seq 86, ack 370, win 512, options [nop,nop,TS val 920444002 ecr 920443965], length 0
+16:05:59.537477 IP localhost.40309 > localhost.41224: Flags [F.], seq 370, ack 87, win 512, options [nop,nop,TS val 920444002 ecr 920444002], length 0
+16:05:59.537485 IP localhost.41224 > localhost.40309: Flags [.], ack 371, win 512, options [nop,nop,TS val 920444002 ecr 920444002], length 0
+16:06:00.114172 IP localhost.58538 > localhost.42109: Flags [S], seq 3745485297, win 65495, options [mss 65495,sackOK,TS val 920444579 ecr 0,nop,wscale 7], length 0
+16:06:00.114180 IP localhost.42109 > localhost.58538: Flags [S.], seq 3054029013, ack 3745485298, win 65483, options [mss 65495,sackOK,TS val 920444579 ecr 920444579,nop,wscale 7], length 0
+16:06:00.114187 IP localhost.58538 > localhost.42109: Flags [.], ack 1, win 512, options [nop,nop,TS val 920444579 ecr 920444579], length 0
+16:06:01.380293 IP localhost.41228 > localhost.40309: Flags [S], seq 3019113240, win 65495, options [mss 65495,sackOK,TS val 920445845 ecr 0,nop,wscale 7], length 0
+16:06:01.380300 IP localhost.40309 > localhost.41228: Flags [S.], seq 2757823830, ack 3019113241, win 65483, options [mss 65495,sackOK,TS val 920445845 ecr 920445845,nop,wscale 7], length 0
+16:06:01.380308 IP localhost.41228 > localhost.40309: Flags [.], ack 1, win 512, options [nop,nop,TS val 920445845 ecr 920445845], length 0
+16:06:02.409535 IP localhost.41228 > localhost.40309: Flags [P.], seq 1:32, ack 1, win 512, options [nop,nop,TS val 920446874 ecr 920445845], length 31
+16:06:02.409546 IP localhost.40309 > localhost.41228: Flags [.], ack 32, win 512, options [nop,nop,TS val 920446874 ecr 920446874], length 0
+16:06:08.330005 IP localhost.53976 > pavel.http-alt: Flags [S], seq 1409589387, win 65495, options [mss 65495,sackOK,TS val 683719873 ecr 0,nop,wscale 7], length 0
+16:06:08.330014 IP pavel.http-alt > localhost.53976: Flags [S.], seq 3260987322, ack 1409589388, win 65483, options [mss 65495,sackOK,TS val 3522078304 ecr 683719873,nop,wscale 7], length 0
+16:06:08.330021 IP localhost.53976 > pavel.http-alt: Flags [.], ack 1, win 512, options [nop,nop,TS val 683719873 ecr 3522078304], length 0
+16:06:12.429843 IP localhost.53976 > pavel.http-alt: Flags [P.], seq 1:5, ack 1, win 512, options [nop,nop,TS val 683723973 ecr 3522078304], length 4: HTTP
+16:06:12.429852 IP pavel.http-alt > localhost.53976: Flags [.], ack 5, win 512, options [nop,nop,TS val 3522082404 ecr 683723973], length 0
+16:06:12.430246 IP pavel.http-alt > localhost.53976: Flags [P.], seq 1:14, ack 5, win 512, options [nop,nop,TS val 3522082404 ecr 683723973], length 13: HTTP
+16:06:12.430288 IP localhost.53976 > pavel.http-alt: Flags [.], ack 14, win 512, options [nop,nop,TS val 683723973 ecr 3522082404], length 0
+16:06:15.518743 IP localhost.53976 > pavel.http-alt: Flags [P.], seq 5:8, ack 14, win 512, options [nop,nop,TS val 683727062 ecr 3522082404], length 3: HTTP
+16:06:15.518752 IP pavel.http-alt > localhost.53976: Flags [.], ack 8, win 512, options [nop,nop,TS val 3522085493 ecr 683727062], length 0
+16:06:15.518883 IP pavel.http-alt > localhost.53976: Flags [P.], seq 14:27, ack 8, win 512, options [nop,nop,TS val 3522085493 ecr 683727062], length 13: HTTP
+16:06:15.518887 IP localhost.53976 > pavel.http-alt: Flags [.], ack 27, win 512, options [nop,nop,TS val 683727062 ecr 3522085493], length 0
+16:06:18.397267 IP localhost.53976 > pavel.http-alt: Flags [P.], seq 8:11, ack 27, win 512, options [nop,nop,TS val 683729940 ecr 3522085493], length 3: HTTP
+16:06:18.397277 IP pavel.http-alt > localhost.53976: Flags [.], ack 11, win 512, options [nop,nop,TS val 3522088371 ecr 683729940], length 0
+16:06:18.397437 IP pavel.http-alt > localhost.53976: Flags [P.], seq 27:40, ack 11, win 512, options [nop,nop,TS val 3522088371 ecr 683729940], length 13: HTTP
+16:06:18.397442 IP localhost.53976 > pavel.http-alt: Flags [.], ack 40, win 512, options [nop,nop,TS val 683729940 ecr 3522088371], length 0
+16:06:22.751129 IP localhost.53976 > pavel.http-alt: Flags [P.], seq 11:14, ack 40, win 512, options [nop,nop,TS val 683734294 ecr 3522088371], length 3: HTTP
+16:06:22.751288 IP pavel.http-alt > localhost.53976: Flags [P.], seq 40:53, ack 14, win 512, options [nop,nop,TS val 3522092725 ecr 683734294], length 13: HTTP
+16:06:22.751295 IP localhost.53976 > pavel.http-alt: Flags [.], ack 53, win 512, options [nop,nop,TS val 683734294 ecr 3522092725], length 0
+16:06:23.185125 IP localhost.37564 > localhost.37564: UDP, length 88
+16:06:26.403048 IP localhost.37564 > localhost.37564: UDP, length 32
+16:06:31.472198 IP localhost.53976 > pavel.http-alt: Flags [P.], seq 14:17, ack 53, win 512, options [nop,nop,TS val 683743015 ecr 3522092725], length 3: HTTP
+16:06:31.472330 IP pavel.http-alt > localhost.53976: Flags [P.], seq 53:66, ack 17, win 512, options [nop,nop,TS val 3522101446 ecr 683743015], length 13: HTTP
+16:06:31.472336 IP localhost.53976 > pavel.http-alt: Flags [.], ack 66, win 512, options [nop,nop,TS val 683743015 ecr 3522101446], length 0
+16:06:34.617798 IP localhost.53976 > pavel.http-alt: Flags [P.], seq 17:20, ack 66, win 512, options [nop,nop,TS val 683746161 ecr 3522101446], length 3: HTTP
+16:06:34.617967 IP pavel.http-alt > localhost.53976: Flags [P.], seq 66:82, ack 20, win 512, options [nop,nop,TS val 3522104592 ecr 683746161], length 16: HTTP
+16:06:34.617974 IP localhost.53976 > pavel.http-alt: Flags [.], ack 82, win 512, options [nop,nop,TS val 683746161 ecr 3522104592], length 0
+16:06:42.124720 IP pavel.32880 > 5.85.222.35.bc.googleusercontent.com.http: Flags [S], seq 2925876117, win 64240, options [mss 1460,sackOK,TS val 2471757504 ecr 0,nop,wscale 7], length 0
+16:06:42.291532 IP 5.85.222.35.bc.googleusercontent.com.http > pavel.32880: Flags [S.], seq 33024001, ack 2925876118, win 65535, options [mss 1460], length 0
+16:06:42.291609 IP pavel.32880 > 5.85.222.35.bc.googleusercontent.com.http: Flags [.], ack 1, win 64240, length 0
+16:06:42.292030 IP pavel.32880 > 5.85.222.35.bc.googleusercontent.com.http: Flags [P.], seq 1:88, ack 1, win 64240, length 87: HTTP: GET / HTTP/1.1
+16:06:42.292667 IP 5.85.222.35.bc.googleusercontent.com.http > pavel.32880: Flags [.], ack 88, win 65535, length 0
+16:06:42.509547 IP 5.85.222.35.bc.googleusercontent.com.http > pavel.32880: Flags [P.], seq 1:149, ack 88, win 65535, length 148: HTTP: HTTP/1.1 204 No Content
+16:06:42.509576 IP pavel.32880 > 5.85.222.35.bc.googleusercontent.com.http: Flags [.], ack 149, win 64092, length 0
+16:06:42.509732 IP 5.85.222.35.bc.googleusercontent.com.http > pavel.32880: Flags [F.], seq 149, ack 88, win 65535, length 0
+16:06:42.509805 IP pavel.32880 > 5.85.222.35.bc.googleusercontent.com.http: Flags [F.], seq 88, ack 150, win 64091, length 0
+16:06:42.510099 IP 5.85.222.35.bc.googleusercontent.com.http > pavel.32880: Flags [.], ack 89, win 65535, length 0
+
